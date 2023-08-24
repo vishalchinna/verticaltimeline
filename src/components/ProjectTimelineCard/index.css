@@ -1,1 +1,18 @@
-/* Write your CSS here */
+.project-image {
+  height: 250px;
+  width: 400px;
+  padding: 0px;
+  border-radius: 5px;
+}
+.title-box {
+  display: flex;
+  justify-content: space-between;
+  width: 370px;
+}
+.time-box {
+  display: flex;
+  align-items: center;
+}
+.desc {
+  width: 370px;
+}
